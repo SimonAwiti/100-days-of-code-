@@ -1,2 +1,4 @@
 # 100-days-of-code-
-100 days of code learning full stack 
+Entails full stack code learning
+SQL essentials 
+Front end dev
